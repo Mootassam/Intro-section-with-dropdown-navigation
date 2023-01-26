@@ -1,21 +1,13 @@
-- Active webpage [Click here to see webpage](https://adrianoescarabote.github.io/Intro-section-with-dropdown-navigation/)
+
 
 # GIF
 
-![gifzada](https://user-images.githubusercontent.com/101136987/194777234-28b06c36-1aef-4e50-a1df-39f22b96d6b1.gif)
+
 
 # Frontend Mentor - Intro section with dropdown navigation solution
 
 This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -42,7 +34,4 @@ Users should be able to:
 
 This was my first project with burguer menu, I only used sass and js to develop it. I was able to manipulate the elements to make the dropdowns, and I felt comfortable doing the project. This week I managed to improve my skills a lot by manipulating the DOM with js, I'm very happy with the result and my performance!
 
-## Author
-
-- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/adriano-escarabote-944b02233/)
 

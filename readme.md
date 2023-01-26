@@ -45,6 +45,4 @@ This was my first project with burguer menu, I only used sass and js to develop 
 ## Author
 
 - Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/adriano-escarabote-944b02233/)
-- Frontend Mentor - [@AdrianoEscarabote](https://www.frontendmentor.io/profile/AdrianoEscarabote)
-- Instagram - [@ogdrian](https://www.instagram.com/ogdrian/)
-- Twitter - [@drianEscarabote](https://twitter.com/drianEscarabote)
+
